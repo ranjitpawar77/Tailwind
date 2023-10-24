@@ -1,0 +1,14 @@
+.star {
+    color: red;
+    cursor: pointer;
+ 
+
+
+}
+.star-rating {
+    width: 200px; /* Set your desired width */
+    height: 40px; 
+}
+
+
+

@@ -1,0 +1,48 @@
+.containers {
+    /* background-image: url('../../assets/backgraound.svg'); */
+    background-color: red;
+    height: 100vh;
+
+}
+
+.containers {
+    background-image: url('../../assets/backgraound.svg');
+    background-repeat: no-repeat;
+    background-size: 95vh;
+
+
+}
+
+.text-end {
+    display: flex;
+    text-align: end;
+    justify-content: end;
+    color: white;
+}
+
+.btn {
+    background-color: whitesmoke;
+    border-radius: 7px;
+    border-width: 50% !important;
+    width: 100%;
+    height: 4vw;
+}
+
+.image {
+    margin-left: 280px;
+    margin-top: -7px;
+}
+
+.text-end {
+    display: flex;
+    margin-top: -60px;
+    margin-right: 15px;
+
+}
+
+p {
+    display: flex;
+    margin-top: 2px !important;
+    justify-content: center;
+
+}
